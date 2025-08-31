@@ -26,5 +26,11 @@ The service reduces external API calls by storing responses in Redis with a TTL 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/weather-service.git
+git clone https://github.com/Sbtech24/Weatherly-backend.git
 cd weatherly-backend
+set up Dacker and spin u redis  - docker run --name redis -p 6379:6379 -d redis
+set env variables 
+npm i - install deps
+
+
+
