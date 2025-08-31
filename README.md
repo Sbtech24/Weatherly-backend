@@ -27,4 +27,4 @@ The service reduces external API calls by storing responses in Redis with a TTL 
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/weather-service.git
-cd weather-service
+cd weatherly-backend
