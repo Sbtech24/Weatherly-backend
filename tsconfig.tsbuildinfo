@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/config/redis.ts","./src/controller/weather.controller.ts","./src/routes/weather.routes.ts","./src/services/weather.service.ts"],"version":"5.9.2"}

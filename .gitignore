@@ -1,0 +1,4 @@
+/src/config/.env
+./env
+/src/config
+node_modules
