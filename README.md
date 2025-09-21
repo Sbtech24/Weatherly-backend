@@ -28,7 +28,7 @@ Project Url - https://roadmap.sh/projects/weather-api-wrapper-service
 ```bash
 git clone https://github.com/Sbtech24/Weatherly-backend.git
 cd weatherly-backend
-set up Dacker and spin u redis  - docker run --name redis -p 6379:6379 -d redis
+set up Docker and spin u redis  - docker run --name redis -p 6379:6379 -d redis
 set env variables 
 npm i - install deps
 
